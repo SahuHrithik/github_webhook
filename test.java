@@ -1,3 +1,5 @@
-echo "Hello"
-echo "Hi"
-echo "hola"
+class test {
+  public static void main(String[] args) {
+    System.out.println("Hello, Hrithik!");
+  }
+}
